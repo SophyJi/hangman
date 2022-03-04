@@ -1,0 +1,25 @@
+Assesement 4: EvilHangman Reflection
+
+1) What did you learn from working on this 
+assignment?
+how to use map and set to get the thing we want to use
+
+2) What did you struggle most with on this 
+assignment? How did you work to overcome 
+that struggle (even if you weren't able to)?
+the record to correspond the pattern and the words.
+
+3) How will you use what you learned from 
+this assignment to improve your process or 
+approach on future assignments?
+I can use map and set create a small game like hangMan.
+
+4) Was any part of the specification or 
+requirements unclear? If so, what part(s), 
+and how could it have been made clearer?
+no.
+
+5) About how many hours did you spend working 
+on this assignment? (Estimates are fine, but 
+try to get close)
+About 8 hours
